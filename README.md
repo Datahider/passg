@@ -22,3 +22,7 @@ $new_password = Pass::generate(4, '0123456789');
 ```
 
 It will generate a 4-digit password (eg. a pin-code)
+
+## TODO
+
+- add additional parameters to generate passwords that <u>must</u> contain symbols from different classes
