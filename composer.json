@@ -1,6 +1,7 @@
 {
-    "name": "pio/passg",
-    "description": "Description of project passg.",
+    "name": "losthost/passg",
+    "description": "A simple and useful password generator",
+    "license": "MIT",
     "authors": [
         {
             "name": "drweb",
