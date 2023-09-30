@@ -1,6 +1,6 @@
 {
     "name": "losthost/passg",
-    "description": "A simple and useful password generator",
+    "description": "A simple and useful password generator that can generate passwords of different symbol classes",
     "license": "MIT",
     "authors": [
         {
